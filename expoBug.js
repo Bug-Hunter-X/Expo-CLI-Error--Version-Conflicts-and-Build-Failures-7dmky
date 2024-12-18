@@ -1,0 +1,1 @@
+This error typically arises when you have an older version of Expo CLI installed or if there's a conflict between different versions of Expo modules.  It can manifest in various ways, but often involves issues related to the `expo prebuild` command or the general build process. The specific error message may differ, but the root cause often lies in version incompatibility.
